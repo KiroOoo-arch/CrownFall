@@ -24,6 +24,5 @@ local.properties
 Thumbs.db
 
 # Local tooling and captured artifacts
-.freebuff/
 tools/
 shots/
