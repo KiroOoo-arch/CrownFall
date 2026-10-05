@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+
+# Kotlin
+.kotlin/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+captures/
+
+# Machine-specific configuration
+local.properties
+
+# Signing
+*.jks
+*.keystore
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Local tooling and captured artifacts
+.freebuff/
+tools/
+shots/
